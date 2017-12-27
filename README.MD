@@ -5,7 +5,7 @@ This repository is designed for users to report any bugs found on Zildith Networ
 
 ### Game-Breaking Bugs:
 
-For issues that could cause serious damage if publically known, please report directly to a staff member on Discord or [our support team](mailto:info@avicus.net).
+For issues that could cause serious damage if publically known, please report directly to a staff member on Discord or [our support team](mailto:zildithnetwork@gmail.com).
 
 ### When creating an issue:
 
